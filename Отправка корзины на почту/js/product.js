@@ -40,3 +40,5 @@ if (products) {
     }
   });
 }
+
+let = 'hello'
